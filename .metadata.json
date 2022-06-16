@@ -1,0 +1,26 @@
+[
+  {
+    "package": "cmaesr",
+    "oncran": true
+  },
+  {
+    "package": "ecr",
+    "oncran": true
+  },
+  {
+    "package": "grapherator",
+    "oncran": true
+  },
+  {
+    "package": "mcMST",
+    "oncran": true
+  },
+  {
+    "package": "netgen",
+    "oncran": true
+  },
+  {
+    "package": "smoof",
+    "oncran": true
+  }
+]
