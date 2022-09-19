@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "mcMST",
-    "oncran": true
-  },
-  {
     "package": "netgen",
     "oncran": true
   },

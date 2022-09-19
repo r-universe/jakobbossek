@@ -18,11 +18,6 @@
 	url = https://github.com/jakobbossek/grapherator
 	shallow = true
 	registered = true
-[submodule "mcMST"]
-	path = mcMST
-	url = https://github.com/jakobbossek/mcmst
-	shallow = true
-	registered = true
 [submodule "netgen"]
 	path = netgen
 	url = https://github.com/jakobbossek/netgen
