@@ -1,10 +1,6 @@
 [
   {
-    "package": "smoof",
-    "oncran": true
-  },
-  {
-    "package": "grapherator",
+    "package": "cmaesr",
     "oncran": true
   },
   {
@@ -12,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "netgen",
+    "package": "grapherator",
     "oncran": true
   },
   {
@@ -20,7 +16,11 @@
     "oncran": true
   },
   {
-    "package": "cmaesr",
+    "package": "netgen",
+    "oncran": true
+  },
+  {
+    "package": "smoof",
     "oncran": true
   }
 ]

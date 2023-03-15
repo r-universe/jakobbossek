@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "smoof"]
-	path = smoof
-	url = https://github.com/jakobbossek/smoof
-	shallow = true
-	registered = true
-[submodule "grapherator"]
-	path = grapherator
-	url = https://github.com/jakobbossek/grapherator
+[submodule "cmaesr"]
+	path = cmaesr
+	url = https://github.com/jakobbossek/cmaesr
 	shallow = true
 	registered = true
 [submodule "ecr"]
@@ -18,9 +13,9 @@
 	url = https://github.com/jakobbossek/ecr2
 	shallow = true
 	registered = true
-[submodule "netgen"]
-	path = netgen
-	url = https://github.com/jakobbossek/netgen
+[submodule "grapherator"]
+	path = grapherator
+	url = https://github.com/jakobbossek/grapherator
 	shallow = true
 	registered = true
 [submodule "mcMST"]
@@ -28,8 +23,13 @@
 	url = https://github.com/jakobbossek/mcmst
 	shallow = true
 	registered = true
-[submodule "cmaesr"]
-	path = cmaesr
-	url = https://github.com/jakobbossek/cmaesr
+[submodule "netgen"]
+	path = netgen
+	url = https://github.com/jakobbossek/netgen
+	shallow = true
+	registered = true
+[submodule "smoof"]
+	path = smoof
+	url = https://github.com/jakobbossek/smoof
 	shallow = true
 	registered = true
