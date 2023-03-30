@@ -28,6 +28,11 @@
 	url = https://github.com/jakobbossek/netgen
 	shallow = true
 	registered = true
+[submodule "rrandvec"]
+	path = rrandvec
+	url = https://github.com/jakobbossek/rrandvec
+	shallow = true
+	registered = true
 [submodule "smoof"]
 	path = smoof
 	url = https://github.com/jakobbossek/smoof
