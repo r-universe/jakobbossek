@@ -14,9 +14,6 @@
 [submodule "mcMST"]
 	path = mcMST
 	url = https://github.com/jakobbossek/mcmst
-[submodule "netgen"]
-	path = netgen
-	url = https://github.com/jakobbossek/netgen
 [submodule "rrandvec"]
 	path = rrandvec
 	url = https://github.com/jakobbossek/rrandvec
